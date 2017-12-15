@@ -1,0 +1,11 @@
+server:
+  port: 8088
+
+spring:
+  redis:
+    host: 192.168.47.128
+    port: 6379
+security:
+  user:
+    name: admin
+    password: 123456
